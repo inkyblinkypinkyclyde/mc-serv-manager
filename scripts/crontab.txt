@@ -1,0 +1,6 @@
+@reboot docker run mc
+
+0 0 * * 7 /home/richardgannon/mcserv/scripts/server_backup.sh
+
+0 0 * * 1-6 /home/richardgannon/mcserv/scripts/world_backup.sh
+

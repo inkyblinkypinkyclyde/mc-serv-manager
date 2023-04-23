@@ -1,0 +1,28 @@
+[2023-04-21_21:47:01] starting world backup
+[2023-04-21_21:47:01] stopping docker container
+[2023-04-21_21:47:05] docker container stopped successfully
+[2023-04-21_21:47:05] generating backups for world, nether and end
+[2023-04-21_21:47:10] completed backup
+[2023-04-21_21:47:10] starting docker container
+[2023-04-21_21:47:11] docker container started successfully
+[2023-04-21_21:52:06] starting world backup
+[2023-04-21_21:52:06] stopping docker container
+[2023-04-21_21:52:10] docker container stopped successfully
+[2023-04-21_21:52:10] generating backups for world, nether and end
+[2023-04-21_21:52:15] completed backup
+[2023-04-21_21:52:15] starting docker container
+[2023-04-21_21:52:15] docker container started successfully
+[2023-04-21_21:58:01] starting world backup
+[2023-04-21_21:58:01] stopping docker container
+[2023-04-21_21:58:05] docker container stopped successfully
+[2023-04-21_21:58:05] generating backups for world, nether and end
+[2023-04-21_21:58:10] completed backup
+[2023-04-21_21:58:10] starting docker container
+[2023-04-21_21:58:10] docker container started successfully
+[2023-04-22_12:00:01] starting world backup
+[2023-04-22_12:00:01] stopping docker container
+[2023-04-22_12:00:05] docker container stopped successfully
+[2023-04-22_12:00:05] generating backups for world, nether and end
+[2023-04-22_12:00:10] completed backup
+[2023-04-22_12:00:10] starting docker container
+[2023-04-22_12:00:10] docker container started successfully
