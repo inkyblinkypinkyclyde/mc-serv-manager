@@ -4,7 +4,7 @@ echo "[$(date +"%Y-%m-%d_%H:%M:%S")] stopping docker container" >> /home/richard
 docker stop mc
 echo "[$(date +"%Y-%m-%d_%H:%M:%S")] docker container stopped successfully" >> /home/richardgannon/mcserv/backups/log.txt
 echo "[$(date +"%Y-%m-%d_%H:%M:%S")] generating whole server backup" >> /home/richardgannon/mcserv/backups/log.txt
-tar -cjf /home/richardgannon/mcserv_backups/server_backup_$(date +"%Y-%m-%d_%H:%M:%S").tar.gz /home/richardgannon/mcserv/data
+tar -cjf /home/richardgannon/mcserv/backups/server_backup_$(date +"%Y-%m-%d_%H:%M:%S").tar.gz /home/richardgannon/mcserv/data
 echo "[$(date +"%Y-%m-%d_%H:%M:%S")] completed backup" >> /home/richardgannon/mcserv/backups/log.txt
 echo "[$(date +"%Y-%m-%d_%H:%M:%S")] starting docker container" >> /home/richardgannon/mcserv/backups/log.txt
 docker start mc

@@ -9,4 +9,3 @@ echo "[$(date +"%Y-%m-%d_%H:%M:%S")] completed backup" >> /home/richardgannon/mc
 echo "[$(date +"%Y-%m-%d_%H:%M:%S")] starting docker container" >> /home/richardgannon/mcserv/backups/log.txt
 docker start mc
 echo "[$(date +"%Y-%m-%d_%H:%M:%S")] docker container started successfully" >> /home/richardgannon/mcserv/backups/log.txt
-
